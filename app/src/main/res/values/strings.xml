@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calc Vault</string>
+    <string name="str_1">1</string>
+    <string name="str_2">2</string>
+    <string name="str_3">3</string>
+    <string name="str_4">4</string>
+    <string name="str_5">5</string>
+    <string name="str_6">6</string>
+    <string name="str_7">7</string>
+    <string name="str_8">8</string>
+    <string name="str_9">9</string>
+    <string name="str_0">0</string>
+    <string name="str_plus">+</string>
+    <string name="str_minus">-</string>
+    <string name="str_div">/</string>
+    <string name="str_mul">*</string>
+    <string name="str_point">.</string>
+    <string name="str_clear">C</string>
+    <string name="str_ac">AC</string>
+    <string name="str_cc">CC</string>
+    <string name="str_t">T</string>
+    <string name="cannotdiv">Cannot Divide</string>
+    <string name="label_name">Name:</string>
+    <string name="label_number">Number:</string>
+    <string name="label_email">Email:</string>
+    <string name="bttn_previous">Previous</string>
+    <string name="bttn_next">Next</string>
+    <string name="bttn_delete">Delete entry</string>
+    <string name="bttn_add">Add new entry</string>
+    <string name="title_activity_add_entry">Add new entry</string>
+    <string name="label_name_activity_add_entry">Enter name:</string>
+    <string name="label_number_activity_add_entry">Enter number:</string>
+    <string name="label_email_activity_add_entry">Enter email address:</string>
+    <string name="bttn_add_activity_add_entry">Add Entry</string>
+    <string name="bttn_cancel_activity_add_entry">Cancel</string>
+    <string name="strg_sendWat">Whatsapp</string>
+</resources>
